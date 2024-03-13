@@ -1,0 +1,15 @@
+{
+  "name": "@luncheon/pointer-dragging",
+  "version": "0.0.0",
+  "description": "`AsyncIterable<PointerEvent>` to simplify the drag handling.",
+  "private": true,
+  "license": "WTFPL",
+  "repository": "luncheon/pointer-dragging",
+  "keywords": [
+    "AsyncIterable",
+    "AsyncIterator",
+    "PointerEvent",
+    "pointer-events",
+    "drag"
+  ]
+}
